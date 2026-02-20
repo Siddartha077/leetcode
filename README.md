@@ -20,4 +20,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Siddartha077/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Siddartha077/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Siddartha077/leetcode/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Siddartha077/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Siddartha077/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
