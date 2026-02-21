@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Siddartha077/leetcode/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/Siddartha077/leetcode/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Siddartha077/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Siddartha077/leetcode/tree/master/0198-house-robber) |
+| [0877-stone-game](https://github.com/Siddartha077/leetcode/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -37,4 +39,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Siddartha077/leetcode/tree/master/0198-house-robber) |
+| [0877-stone-game](https://github.com/Siddartha077/leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Siddartha077/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
