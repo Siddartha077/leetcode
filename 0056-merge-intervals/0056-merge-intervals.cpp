@@ -7,7 +7,7 @@ public:
 
         for (int i = 1; i < intervals.size(); i++) {
             if (intervals[i][0] <= prev[1]) {
-                // Merge overlapping intervals
+                
                 prev[1] = max(prev[1], intervals[i][1]);
             } else {
                 merged.push_back(prev);
