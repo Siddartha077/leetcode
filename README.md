@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Siddartha077/leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Siddartha077/leetcode/tree/master/0056-merge-intervals) |
 | [0198-house-robber](https://github.com/Siddartha077/leetcode/tree/master/0198-house-robber) |
 | [0877-stone-game](https://github.com/Siddartha077/leetcode/tree/master/0877-stone-game) |
@@ -48,5 +49,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Siddartha077/leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Siddartha077/leetcode/tree/master/0056-merge-intervals) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Siddartha077/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
