@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Siddartha077/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Siddartha077/leetcode/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/Siddartha077/leetcode/tree/master/0877-stone-game) |
 ## Dynamic Programming
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Siddartha077/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Siddartha077/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Siddartha077/leetcode/tree/master/0050-powx-n) |
 ## Hash Table
 |  |
 | ------- |
