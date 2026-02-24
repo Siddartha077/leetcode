@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Siddartha077/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Siddartha077/leetcode/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/Siddartha077/leetcode/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/Siddartha077/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Siddartha077/leetcode/tree/master/0198-house-robber) |
 | [0506-relative-ranks](https://github.com/Siddartha077/leetcode/tree/master/0506-relative-ranks) |
 | [0877-stone-game](https://github.com/Siddartha077/leetcode/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/Siddartha077/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Siddartha077/leetcode/tree/master/1046-last-stone-weight) |
 ## Game Theory
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Siddartha077/leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Siddartha077/leetcode/tree/master/0056-merge-intervals) |
 | [0506-relative-ranks](https://github.com/Siddartha077/leetcode/tree/master/0506-relative-ranks) |
+| [0973-k-closest-points-to-origin](https://github.com/Siddartha077/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,5 +102,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Siddartha077/leetcode/tree/master/0506-relative-ranks) |
+| [0973-k-closest-points-to-origin](https://github.com/Siddartha077/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Siddartha077/leetcode/tree/master/1046-last-stone-weight) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Siddartha077/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Siddartha077/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Siddartha077/leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
