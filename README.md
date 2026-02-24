@@ -79,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Siddartha077/leetcode/tree/master/0046-permutations) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/Siddartha077/leetcode/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
