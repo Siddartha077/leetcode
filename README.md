@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Siddartha077/leetcode/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/Siddartha077/leetcode/tree/master/0056-merge-intervals) |
 | [0198-house-robber](https://github.com/Siddartha077/leetcode/tree/master/0198-house-robber) |
+| [0506-relative-ranks](https://github.com/Siddartha077/leetcode/tree/master/0506-relative-ranks) |
 | [0877-stone-game](https://github.com/Siddartha077/leetcode/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/Siddartha077/leetcode/tree/master/1046-last-stone-weight) |
 ## Game Theory
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Siddartha077/leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Siddartha077/leetcode/tree/master/0056-merge-intervals) |
+| [0506-relative-ranks](https://github.com/Siddartha077/leetcode/tree/master/0506-relative-ranks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,5 +98,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Siddartha077/leetcode/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/Siddartha077/leetcode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
