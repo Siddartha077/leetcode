@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Siddartha077/leetcode/tree/master/0056-merge-intervals) |
 | [0198-house-robber](https://github.com/Siddartha077/leetcode/tree/master/0198-house-robber) |
 | [0877-stone-game](https://github.com/Siddartha077/leetcode/tree/master/0877-stone-game) |
+| [1046-last-stone-weight](https://github.com/Siddartha077/leetcode/tree/master/1046-last-stone-weight) |
 ## Game Theory
 |  |
 | ------- |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Siddartha077/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/Siddartha077/leetcode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
