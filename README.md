@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Siddartha077/leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Siddartha077/leetcode/tree/master/0056-merge-intervals) |
 | [0506-relative-ranks](https://github.com/Siddartha077/leetcode/tree/master/0506-relative-ranks) |
+| [0767-reorganize-string](https://github.com/Siddartha077/leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Siddartha077/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Siddartha077/leetcode/tree/master/0036-valid-sudoku) |
+| [0767-reorganize-string](https://github.com/Siddartha077/leetcode/tree/master/0767-reorganize-string) |
 ## Matrix
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Siddartha077/leetcode/tree/master/0038-count-and-say) |
+| [0767-reorganize-string](https://github.com/Siddartha077/leetcode/tree/master/0767-reorganize-string) |
 ## Stack
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Siddartha077/leetcode/tree/master/0506-relative-ranks) |
+| [0767-reorganize-string](https://github.com/Siddartha077/leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Siddartha077/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Siddartha077/leetcode/tree/master/1046-last-stone-weight) |
 ## Divide and Conquer
@@ -116,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Siddartha077/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Greedy
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/Siddartha077/leetcode/tree/master/0767-reorganize-string) |
+## Counting
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/Siddartha077/leetcode/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
